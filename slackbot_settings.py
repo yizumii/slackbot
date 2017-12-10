@@ -1,2 +1,2 @@
-DEFAULT_REPLY = "デプロイ成功だよ～"
+DEFAULT_REPLY = "デプロイ成功だよ"
 
